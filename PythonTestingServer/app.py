@@ -4,8 +4,8 @@ app = Flask(__name__)
 
 # Mock data for testing
 buoy_data = {
-    "BUOY1234": {"latitude": 39.7783, "longitude": -119.4179},
-    "BUOY5678": {"latitude": 37.7749, "longitude": -122.4194},
+    "BUOY1234": {"latitude": 38.9072, "longitude": -77.0369},
+    "BUOY5678": {"latitude": 35.6762, "longitude": 139.6503},
     "BUOY9898": {"latitude": 28.6139, "longitude": 77.2090},
 }
 
