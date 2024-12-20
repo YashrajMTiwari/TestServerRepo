@@ -7,7 +7,7 @@ buoy_data = {
     "BUOY1234": {"latitude": 38.9072, "longitude": -77.0369},
     "BUOY5678": {"latitude": 35.6762, "longitude": 139.6503},
     "BUOY9898": {"latitude": 28.6139, "longitude": 77.2090},
-    "BUOY7876": {"latitude": 48.8566, "longitude": 2.3522},
+    "BUOY7876": {"latitude": 48.8566, "longitude": 22.3522},
 }
 
 @app.route('/api/location', methods=['GET'])
