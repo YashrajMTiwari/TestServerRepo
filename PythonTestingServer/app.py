@@ -6,6 +6,7 @@ app = Flask(__name__)
 buoy_data = {
     "BUOY1234": {"latitude": 39.7783, "longitude": -119.4179},
     "BUOY5678": {"latitude": 37.7749, "longitude": -122.4194},
+    "BUOY9898": {"latitude": 28.6139, "longitude": 77.2090},
 }
 
 @app.route('/api/location', methods=['GET'])
